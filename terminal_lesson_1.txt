@@ -1,0 +1,12 @@
+pwd
+mkdir
+ls -la
+touch
+vim
+cd
+rm -r
+rm
+mv
+git status
+git commit
+git add
